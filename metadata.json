@@ -1,0 +1,5 @@
+{
+  "name": "FinSight - AI Bank Statement Analyzer",
+  "description": "A professional-grade personal finance tool that uses Gemini to parse, categorize, and analyze raw text from Indian bank statements, providing clear insights and visualizations.",
+  "requestFramePermissions": []
+}
